@@ -358,7 +358,7 @@ def main():
         logging.info("Starting IEEE scraping...")
         scraper.scrape_ieee(query="AI")
 
-        scraper.save_results("ai_articles")
+        scraper.save_results("data/ai_articles")
 
     except Exception as e:
         logging.error(f"An error occurred in main: {e}")
