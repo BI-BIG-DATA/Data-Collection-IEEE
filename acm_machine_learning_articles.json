@@ -1,0 +1,222 @@
+[
+  {
+    "journal": "TEI '24: Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3623509.3633370",
+    "titre": "Embodied Machine Learning",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "Machine learning becomes more prevalent in specialized domains such as medicine and biology every year, but domain expert trust in machine learning continues to lag behind. Researchers have explored increasing rational trust in AI but little research ...",
+    "keywords": ""
+  },
+  {
+    "journal": "ICMLT '24: Proceedings of the 2024 9th International Conference on Machine Learning Technologies",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3674029.3674033",
+    "titre": "Diabetes Prediction Using Machine Learning",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "Machine learning (ML) techniques for healthcare informatics provide health professional insight into disease development. Many healthcare topics are suitable for ML research, such as diabetes prediction and classification. Common ML approaches use a ...",
+    "keywords": ""
+  },
+  {
+    "journal": "ICDCN '24: Proceedings of the 25th International Conference on Distributed Computing and Networking",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3631461.3632516",
+    "titre": "Distributed Machine Learning",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "We explore the landscape of distributed machine learning, focusing on advancements, challenges, and potential future directions in this rapidly evolving field. We delve into the motivation for distributed machine learning, its essential techniques, real-...",
+    "keywords": ""
+  },
+  {
+    "journal": "ACM REP '24: Proceedings of the 2nd ACM Conference on Reproducibility and Replicability",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3641525.3663630",
+    "titre": "The Idealized Machine Learning Pipeline (IMLP) for Advancing Reproducibility in Machine Learning",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "We investigate the influence of Human Factors on reproducible machine learning, using a novel “Idealized Machine Learning Pipeline” we introduce as a conceptual framework. The study of Human Factors seeks to ensure that systems meet the needs and ...",
+    "keywords": ""
+  },
+  {
+    "journal": "KDD '24: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3637528.3671488",
+    "titre": "Machine Learning in Finance",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "This workshop aims to explore the intersection of Generative AI with the rich tapestry of financial data types, seeking to uncover new methodologies and techniques that can enhance predictive analytics, fraud detection, and customer insights across the ...",
+    "keywords": ""
+  },
+  {
+    "journal": "ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Just Accepted",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3701031",
+    "titre": "Overview of Multimodal Machine Learning",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "Human nature is fundamentally driven by the need for interaction and attention, which are fulfilled through various sensory modalities, including hearing, sight, touch, taste, and smell. These senses enable us to perceive, understand, and engage with the ...",
+    "keywords": ""
+  },
+  {
+    "journal": "MLCAD '24: Proceedings of the 2024 ACM/IEEE International Symposium on Machine Learning for CAD",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3670474.3685973",
+    "titre": "Machine Learning for High Sigma Analog Designs (Invited)",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "Monte Carlo simulations have been the gold standard for assessing parametric yields of analog, mixed signal, and RF circuits as they offer one of the most direct representations of the variation induced by semiconductor manufacturing. However, Monte ...",
+    "keywords": ""
+  },
+  {
+    "journal": "ACM Computing Surveys (CSUR), Volume 56, Issue 7",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3616537",
+    "titre": "Byzantine Machine Learning: A Primer",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "The problem of Byzantine resilience in distributed machine learning, a.k.a. Byzantine machine learning, consists of designing distributed algorithms that can train an accurate model despite the presence of Byzantine nodes—that is, nodes with corrupt data ...",
+    "keywords": ""
+  },
+  {
+    "journal": "CIKM '24: Proceedings of the 33rd ACM International Conference on Information and Knowledge Management",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3627673.3679095",
+    "titre": "Data Quality-aware Graph Machine Learning",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "Recent years have seen a significant shift in Artificial Intelligence from model-centric to data-centric approaches, highlighted by the success of large foundational models. Following this trend, despite numerous innovations in graph machine learning ...",
+    "keywords": ""
+  },
+  {
+    "journal": "SIGGRAPH Courses '24: ACM SIGGRAPH 2024 Courses",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3664475.3664574",
+    "titre": "Machine Learning & Neural Networks",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "",
+    "keywords": ""
+  },
+  {
+    "journal": "ICMLT '24: Proceedings of the 2024 9th International Conference on Machine Learning Technologies",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3674029.3674050",
+    "titre": "Machine Learning Tool for Wildlife Image Classification",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "Wildlife researchers gather a large amount of image data during fieldwork. Reviewing this data is time-consuming and requires specialized expertise. To address this issue, machine learning models can automatically classify animals in these images. This ...",
+    "keywords": ""
+  },
+  {
+    "journal": "MLCAD '24: Proceedings of the 2024 ACM/IEEE International Symposium on Machine Learning for CAD",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3670474.3685972",
+    "titre": "When Device Modeling Meets Machine Learning: Opportunities and Challenges (Invited)",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "Device modeling is essential for circuit simulations and designs in terms of constructing the circuit matrix equations of KCL and KVL. While there are classical methodologies, machine learning techniques are promising to bring innovations in the ...",
+    "keywords": ""
+  },
+  {
+    "journal": "ACM Computing Surveys (CSUR), Volume 56, Issue 11",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3664595",
+    "titre": "Creativity and Machine Learning: A Survey",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "There is a growing interest in the area of machine learning and creativity. This survey presents an overview of the history and the state of the art of computational creativity theories, key machine learning techniques (including generative deep learning),...",
+    "keywords": ""
+  },
+  {
+    "journal": "KDD '24: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3637528.3671442",
+    "titre": "Practical Machine Learning for Streaming Data",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "Machine Learning for Data Streams has been an important area of research since the late 1990s, and its use in industry has grown significantly over the last few years. However, there is still a gap between the cutting-edge research and the tools that are ...",
+    "keywords": ""
+  },
+  {
+    "journal": "NSAD '24: Proceedings of the 10th ACM SIGPLAN International Workshop on Numerical and Symbolic Abstract Domains",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3689609.3699919",
+    "titre": "Abstract Domains for Machine Learning Verification (Keynote)",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "Machine learning (ML) software is increasingly being deployed in high-stakes and sensitive applications, raising important challenges related to safety, privacy, and fairness. In response, ML verification has quickly gained traction within the formal ...",
+    "keywords": ""
+  },
+  {
+    "journal": "The Journal of Machine Learning Research (JMLR), Volume 24, Issue 1",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "",
+    "titre": "Dimensionless machine learning: imposing exact units equivariance",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "Units equivariance (or units covariance) is the exact symmetry that follows from the requirement that relationships among measured quantities of physics relevance must obey self-consistent dimensional scalings. Here, we express this symmetry in terms of ...",
+    "keywords": ""
+  },
+  {
+    "journal": "CIKM '24: Proceedings of the 33rd ACM International Conference on Information and Knowledge Management",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3627673.3679103",
+    "titre": "Hands-On Introduction to Quantum Machine Learning",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "This tutorial offers a hands-on introduction into the captivating field of quantum machine learning (QML). Beginning with the bedrock of quantum information science (QIS)-including essential elements like qubits, single and multiple qubit gates, ...",
+    "keywords": ""
+  },
+  {
+    "journal": "ICMLT '24: Proceedings of the 2024 9th International Conference on Machine Learning Technologies",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3674029.3674031",
+    "titre": "Prediction of Mobile Phone Prices using Machine Learning",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "This research investigates upon the prediction of mobile phone prices based on various factors through the applications of multiple machine learning algorithms. Leveraging linear regression, decision tree regressor, random forest regressor, gradient ...",
+    "keywords": ""
+  },
+  {
+    "journal": "ICMLT '24: Proceedings of the 2024 9th International Conference on Machine Learning Technologies",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3674029.3674049",
+    "titre": "Rating Prediction of Football Players using Machine Learning",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "This research Analysis the prediction of football player ratings through the application of diverse machine learning algorithms. Rating systems for sports teams have gathered considerable attention in academic research. The approach used by the authors ...",
+    "keywords": ""
+  },
+  {
+    "journal": "MLCAD '24: Proceedings of the 2024 ACM/IEEE International Symposium on Machine Learning for CAD",
+    "indexation": "ACM",
+    "publication": "",
+    "doi": "https://doi.org/10.1145/3670474.3685970",
+    "titre": "Machine Learning VLSI CAD Experiments Should Consider Atomic Data Groups",
+    "chercheurs": "",
+    "laboratoires": "",
+    "abstract": "Machine learning (ML) has proved useful across a wide range of applications in the very-large-scale integration computer-aided design (VLSI CAD) domain. To avoid overestimating ML models' generalization capabilities for real-world deployments, best ...",
+    "keywords": ""
+  }
+]
